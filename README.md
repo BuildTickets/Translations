@@ -12,4 +12,4 @@ Every language file must be like the demo.properties file, the only thing that c
 ### Information
 | LanguageName | LanguageCode                    | LanguageID                       |
 | :--------  |:------------------------------| :-------------------------------- |
-| English       | `en`            | 1 |
+|   English   | `en`            | 1 |
