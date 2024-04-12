@@ -11,7 +11,7 @@ Every language file must be like the demo.properties file, the only thing that c
 
 ### Information
 | LanguageISOName | LanguageCode                    |
-| :--------  |:------------------------------||
+| :--------  |:------------------------------|
 | Czech/ | `cs` |
 | Danish/ | `da` |
 | German/Deutsch | `de` |
